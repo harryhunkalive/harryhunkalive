@@ -17,7 +17,7 @@
 <div>
 <h2>About Me</h2>
   <div align="center">
-<img src="https://github.com/harryhunkalive/harryhunkalive/blob/master/assets/itsme.gif" align="right">
+<img src="https://github.com/harryhunkalive/harryhunkalive/blob/main/assets/itsme.gif" align="right">
   </div>
 <dl>
   <dt>Name:</dt>
@@ -35,7 +35,7 @@
 
 <div align="center">
   <h2>Knowledge</h2>
-  <img src="https://github.com/harryhunkalive/harryhunkalive/blob/master/assets/Knowledge.gif" style="width:80%; height:auto; margin-bottom:20px;">
+  <img src="https://github.com/harryhunkalive/harryhunkalive/blob/main/assets/Knowledge.gif" style="width:80%; height:auto; margin-bottom:20px;">
 
   <p>
     <!-- Top of the triangle - Core Programming Languages -->
@@ -109,10 +109,10 @@
     <a href="https://www.linkedin.com/in/harryhunkalive">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://discord.com/users/1081831180879527957">
+    <a href="https://discord.com/users/494142577566547978">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
-    <a href="mailto:harryhunkalive@example.com">
+    <a href="mailto:harryhunkalive@gmail.com">
       <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
     </a>
     <a href="https://harryhunkalive.com">
