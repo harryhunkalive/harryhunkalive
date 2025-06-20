@@ -57,7 +57,7 @@
   </p>
   <p>
     <!-- Third level - Frontend Frameworks -->
-    <img src="https://img.shields.io/badge/powerBI?style=for-the-badge&logo=powerBI&logoColor=white" alt="powerBI"/>
+    <img src="https://img.shields.io/badge/powerBI-092E20?style=for-the-badge&logo=powerBI&logoColor=white" alt="powerBI"/>
   </p>
   <p>
     <!-- Bottom of the triangle - Learning -->
