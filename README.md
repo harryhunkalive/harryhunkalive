@@ -8,7 +8,7 @@
     <h1>Welcome Wanderer!</h1>
     <p>Hello, world! If you find any bugs in life, please pull a request. My code and my humor need constant debugging! 🐛🛠️ I'm not just active on Discord—I practically live there! Click below and see if you can catch me online. 🕹️🎧</p>
     <a href="https://discord.com/users/494142577566547978">
-    <img src="https://lanyard.cnrad.dev/api/494142577566547978?bg=512f9c&borderRadius=15px"/>
+    <img src="https://lanyard.cnrad.dev/api/494142577566547978-F7DF1E?bg=512f9c&borderRadius=15px"/>
     </a>
 </div>
 
