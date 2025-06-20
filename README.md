@@ -7,8 +7,8 @@
 <div align="center">
     <h1>Welcome Wanderer!</h1>
     <p>Hello, world! If you find any bugs in life, please pull a request. My code and my humor need constant debugging! 🐛🛠️ I'm not just active on Discord—I practically live there! Click below and see if you can catch me online. 🕹️🎧</p>
-    <a href="https://discord.com/users/1081831180879527957">
-    <img src="https://lanyard.cnrad.dev/api/1081831180879527957?bg=512f9c&borderRadius=15px"/>
+    <a href="https://discord.com/users/494142577566547978">
+    <img src="https://lanyard.cnrad.dev/api/494142577566547978?bg=512f9c&borderRadius=15px"/>
     </a>
 </div>
 
@@ -21,13 +21,13 @@
   </div>
 <dl>
   <dt>Name:</dt>
-  <dd>- Junior </dd>
+  <dd>- Harry </dd>
   <dt>Gender:</dt>
   <dd>- he/him </dd>
   <dt>Loves:</dt>
-  <dd>- Anime, Games, Cars </dd>
+  <dd>- Anime, Games, Cars, Bike </dd>
   <dt>Hobbies:</dt>
-  <dd>- Coding, Streaming </dd>
+  <dd>- Coding, Fitness </dd>
 </dl>
 </div>
 
@@ -52,7 +52,6 @@
   </p>
   <p>
     <!-- Fourth level - Backend Technologies -->
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -61,8 +60,6 @@
   <p>
     <!-- Third level - Frontend Frameworks -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   </p>
   <p>
     <!-- Bottom of the triangle - Learning -->
