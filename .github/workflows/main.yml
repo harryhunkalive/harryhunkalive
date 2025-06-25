@@ -30,7 +30,7 @@ jobs:
       - name: commit files
         run: |
           git config --local user.email ${{ secrets.MY_GIT_EMAIL }}
-          git config --local user.name "junioralive"
+          git config --local user.name "harryhunkalive"
           git add -A
           git commit -m "updated cookies" -a
           
