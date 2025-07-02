@@ -25,9 +25,10 @@
   <dt>Gender:</dt>
   <dd>- he/him </dd>
   <dt>Loves:</dt>
-  <dd>- Anime, Games, Cars, Bike </dd>
+  <dd>- Anime, Games, Cars, Bikes </dd>
   <dt>Hobbies:</dt>
-  <dd>- Coding, Fitness </dd>
+  <dd>- Coding, Gym </dd>
+  
 </dl>
 </div>
 
